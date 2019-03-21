@@ -1,0 +1,8 @@
+prefix=/home/robot4/catkin_ws/install
+
+Name: my_opencv
+Description: Description of my_opencv
+Version: 0.0.0
+Cflags: -I/home/robot4/catkin_ws/install/include
+Libs: -L/home/robot4/catkin_ws/install/lib 
+Requires: message_runtime
